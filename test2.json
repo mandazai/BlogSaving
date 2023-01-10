@@ -1,0 +1,92 @@
+[
+    {
+       "date": "2018-12-22",
+       "open": 3839.06,
+       "high": 4005,
+       "low": 3790.16,
+       "close": 3980.46,
+       "volume_btc": 9641.35,
+       "volume_usd": 37
+    },
+    {
+       "date": "2018-12-23",
+       "open": 3980.46,
+       "high": 4050,
+       "low": 3904.87,
+       "close": 3944.93,
+       "volume_btc": 9760.55,
+       "volume_usd": 38
+    },
+    {
+       "date": "2018-12-24",
+       "open": 3944.93,
+       "high": 4239.37,
+       "low": 3944.92,
+       "close": 4034,
+       "volume_btc": 18459.12,
+       "volume_usd": 76
+    },
+    {
+       "date": "2018-12-25",
+       "open": 4034,
+       "high": 4045.41,
+       "low": 3676.15,
+       "close": 3780,
+       "volume_btc": 11888.87,
+       "volume_usd": 45
+    },
+    {
+       "date": "2018-12-26",
+       "open": 3780,
+       "high": 3849.2,
+       "low": 3685.02,
+       "close": 3809.88,
+       "volume_btc": 8763.53,
+       "volume_usd": 28
+    },
+    {
+       "date": "2018-12-27",
+       "open": 3809.88,
+       "high": 3841.21,
+       "low": 3567,
+       "close": 3589.89,
+       "volume_btc": 12383.47,
+       "volume_usd": 5
+    },
+    {
+       "date": "2018-12-28",
+       "open": 3589.89,
+       "high": 3971.58,
+       "low": 3576.12,
+       "close": 3888.06,
+       "volume_btc": 15655.27,
+       "volume_usd": 12
+    },
+    {
+       "date": "2018-12-29",
+       "open": 3888.06,
+       "high": 3944.33,
+       "low": 3706,
+       "close": 3729.31,
+       "volume_btc": 8888.81,
+       "volume_usd": 3
+    },
+    {
+       "date": "2018-12-30",
+       "open": 3729.31,
+       "high": 3863.06,
+       "low": 3691.01,
+       "close": 3829,
+       "volume_btc": 8281.34,
+       "volume_usd": 2
+    },
+    {
+       "date": "2018-12-31",
+       "open": 3829,
+       "high": 3835.4,
+       "low": 3625.84,
+       "close": 3691.86,
+       "volume_btc": 11743.89,
+       "volume_usd": 1
+    }
+]
